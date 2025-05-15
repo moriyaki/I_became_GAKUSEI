@@ -4,8 +4,8 @@
 
 ## ライセンス
 
-この作品は CC0 1.0 Universal ライセンスのもとでパブリックドメインに捧げられます。  
-法律の許す限りにおいて、著作者は本作品の著作権および関連する権利を放棄します。  
+この作品は CC0 1.0 Universal ライセンスのもとでパブリックドメインに捧げられます。
+法律の許す限りにおいて、著作者は本作品の著作権および関連する権利を放棄します。
 
-詳細は以下を参照してください:  
+詳細は以下を参照してください:
 [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
