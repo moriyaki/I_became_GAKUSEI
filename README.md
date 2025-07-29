@@ -9,3 +9,18 @@
 
 詳細は以下を参照してください:
 [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## 作成方法
+
+`I_became_GAKUSEI` に移動して
+
+```bash
+./make_I_became_GAKUSEI.sh
+```
+
+です。ああ、`pandoc` はあらかじめインストールしておいてください。これでエラーが出なければ epub が作られているはずです。
+
+自著に利用したい場合は `I_became_GAKUSEI.md` を編集してください。また、ディレクトリやファイル名を I_became_GAKUSEI から置き換えた方がいいでしょう。
+
+これ以上の説明が欲しければ、Fedibird の私のアカウントへリプか DM を投げてください。
+
