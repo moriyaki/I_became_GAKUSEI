@@ -12,7 +12,7 @@
 
 ## 作成方法
 
-`I_became_GAKUSEI` に移動して
+ディレクトリ `I_became_GAKUSEI` に移動して
 
 ```bash
 ./make_I_became_GAKUSEI.sh
