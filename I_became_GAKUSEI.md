@@ -6,7 +6,7 @@ creator:
   - role: author
     text: もりゃき
   - role: illustrator
-    text: 咲耶(ChatGPT)
+    text: サヤ(ChatGPT)
 rights: CC0 1.0
 language: ja
 date:
@@ -888,7 +888,8 @@ Happy End...?
 ## 奥付
 
 - 作者：もりゃき
-- イラスト：咲耶(ChatGPT)
+- イラスト：サヤ(ChatGPT)
 - 初版日：二〇二四年一〇月一四日
 - 改訂第一版：二〇二五年〇七月二三日
+　改訂第二版：二〇二五年〇九月〇九日
 
